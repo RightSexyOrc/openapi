@@ -16,6 +16,8 @@ pip install -r requirements.txt
 uvicorn openapi:app
 ```
 
+Note that endpoint URL's begin with a version number prefix, "/v1"
+
 ## Thanks
 
 Thanks to the contributions of [Chia Mine](https://github.com/Chia-Mine/clvm-js), MetaMask and DeBank to crypto, we stand on your shoulders to complete this project. (🌱, 🌱)
